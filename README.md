@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sharoon-Masih.
 - 👀 I’m interested in Web3.0,blockchain,GenAi.
-- 🌱 I’m currently learning HTML,CSS,Typescript,NodeJS.
+- 🌱 I’m currently learning HTML,CSS,Typescript,NodeJS,NextJS,Tailwindcss.
 - 💞️ I’m looking for a mentor who can guide me related to blockchain techology.
 - 📫 you can reach me through my email: sharoonmasih43@gmail.com.
 
