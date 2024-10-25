@@ -1,4 +1,4 @@
-![logo](https://github.com/Sharoon-Masih/Sharoon-Masih/blob/main/Blue%20Modern%20Company%20Slogan%20LinkedIn%20Banner%20(1).png)
+![logo]()
 <h1 align="center">Hi 👋, I'm Sharoon Masih</h1>
 <h3 align="center">Hi there! I'm Sharoon Masih, a passionate learner diving into the world of web development from Pakistan.</h3>
 
