@@ -2,16 +2,17 @@
 <h1 align="center">Hi 👋, I'm Sharoon Masih</h1>
 <h3 align="center">Hi there! I'm Sharoon Masih, a passionate learner diving into the world of web development from Pakistan.</h3>
 
-<img align="right" width="400" alt="codingGif" src="https://camo.githubusercontent.com/905b96edece53a982ed9dd6870ce61ad6ee85d6598755f88a859e0322a70842f/68747470733a2f2f6d656469612e74656e6f722e636f6d2f726550446644574f33586f41414141642f6861636b696e672e676966" />
+<img align="right" width="400" alt="codingGif" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_OIUet1dRnEI3NPUYZXhOqmhh7d4_jM2J5Q&s" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharoon-masih&label=Profile%20views&color=0e75b6&style=flat" alt="sharoon-masih" /> </p>
 
 - 🔭 I’m currently working on **Techverse51**
 
-- 🌱 I’m currently learning **NextJs,Typescript,ReactJS,Javascript**
+- 🌱 Currently I am a Expert JAMStack Developer working on **NextJs,Typescript,ReactJS,Javascript** and also learning Generative AI
 
 - 📝 I regularly write articles on [https://medium.com/@sharoonmasih43/typescript-1e9ccdc6772b](https://medium.com/@sharoonmasih43/typescript-1e9ccdc6772b)
 
 - 📫 How to reach me **sharoonmasih43@gmail.com**
+- 🚀 Portfolio [click here](https://sharoon-portfolio.vercel.app/)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
