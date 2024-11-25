@@ -1,13 +1,13 @@
 <img src="https://media.licdn.com/dms/image/v2/D4D16AQGTYZ8bqI8IjA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1725746325023?e=1735171200&v=beta&t=YaQ7kx47-4B-cJPr_81LzwLQjq-sSbMrl97qtETugSo](https://media.licdn.com/dms/image/v2/D4D16AQFb55cancXk-g/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1731851049708?e=1738195200&v=beta&t=CPbLTMQr_0XTMoVhg6jA2kt6kKuQ8acq0Sj1lBR29ZM" />
 <h1 align="center">Hi 👋, I'm Sharoon Masih</h1>
-<h3 align="center">Hi there! I'm Sharoon Masih, a passionate learner diving into the world of web development from Pakistan.</h3>
+<h3 align="center">Hi there! I'm Sharoon Masih, a passionate web engineer from Pakistan.</h3>
 
 <img align="right" width="400" alt="codingGif" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_OIUet1dRnEI3NPUYZXhOqmhh7d4_jM2J5Q&s" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharoon-masih&label=Profile%20views&color=0e75b6&style=flat" alt="sharoon-masih" /> </p>
 
 - 🔭 I’m currently working on **Techverse51**
 
-- 🌱 Currently I am a Expert JAMStack Developer working on **NextJs,Typescript,ReactJS,Javascript** and also learning Generative AI
+- 🌱 Currently I am a Expert JAMStack,MERN Developer working on **NextJs,Typescript,ReactJS,Javascript,Express** and also learning Generative AI
 
 - 📝 I regularly write articles on [https://medium.com/@sharoonmasih43/typescript-1e9ccdc6772b](https://medium.com/@sharoonmasih43/typescript-1e9ccdc6772b)
 
