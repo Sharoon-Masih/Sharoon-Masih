@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/v2/D4D16AQGTYZ8bqI8IjA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1725746325023?e=1735171200&v=beta&t=YaQ7kx47-4B-cJPr_81LzwLQjq-sSbMrl97qtETugSo](https://media.licdn.com/dms/image/v2/D4D16AQFb55cancXk-g/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1731851049708?e=1738195200&v=beta&t=CPbLTMQr_0XTMoVhg6jA2kt6kKuQ8acq0Sj1lBR29ZM" width="400" alt="banner"/>
+![banner](https://media.licdn.com/dms/image/v2/D4D16AQFb55cancXk-g/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1731851049708?e=1738195200&v=beta&t=CPbLTMQr_0XTMoVhg6jA2kt6kKuQ8acq0Sj1lBR29ZM)
 <h1 align="center">Hi 👋, I'm Sharoon Masih</h1>
 <h3 align="center">Hi there! I'm Sharoon Masih, a passionate web engineer from Pakistan.</h3>
 
